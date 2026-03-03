@@ -15,7 +15,7 @@ Priority rules:
 - Priority is evaluated within each skill queue (not globally across all skills).
 - For TA claim, `preferred_skill` is checked first; otherwise skills are checked in TA skill-list order.
 
-## Quick Start
+## Quick Start 
 
 1. From the API folder:
    ```bash
